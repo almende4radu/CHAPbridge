@@ -1,1 +1,8 @@
-CHAPbridge
+-- CHAPbridge - CHAP instantiation for BRIDGE project
+CHAP is an agent platform implemented in Java.
+
+--- Scenario CHAP-Bridge
+This scenario creates several actors that have simple interactions.
+
+--- Links to project website
+URL: chap-bridge.appspot.com
